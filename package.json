@@ -74,7 +74,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vueComponent/ant-design-vue.git"
+    "url": "https://github.com/bmdevteam/ant-design-fork.git"
   },
   "license": "MIT",
   "funding": {
@@ -82,7 +82,7 @@
     "url": "https://opencollective.com/ant-design-vue"
   },
   "bugs": {
-    "url": "https://github.com/vueComponent/ant-design-vue/issues"
+    "url": "https://github.com/bmdevteam/ant-design-fork/issues"
   },
   "homepage": "https://www.antdv.com/",
   "peerDependencies": {
